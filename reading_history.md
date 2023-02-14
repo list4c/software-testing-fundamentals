@@ -1,6 +1,6 @@
 Books:
 
-- "Podróż przez świat testowania" by Karolina Pawlowska & Natalia Pawlak
+- "Podróż przez świat testowania" by Karolina Pawłowska & Natalia Pawlak
 
 Articles:
 
